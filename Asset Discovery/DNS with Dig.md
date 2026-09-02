@@ -1,8 +1,8 @@
 Ans: Using dig to query DNS records
-`dig example.com` - this is the deafault A
-`dig example.com MX` or
-`dig example.com TXT` or
-`dig example.com NS` 
+`dig example.com` - this is the deafault A  
+`dig example.com MX` or  
+`dig example.com TXT` or  
+`dig example.com NS`  
 
 ```text
 

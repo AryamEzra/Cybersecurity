@@ -1,5 +1,5 @@
-`dig example.com NS`
-`dig @ns1.example.com example.com AXFR`
+`dig example.com NS`  
+`dig @ns1.example.com example.com AXFR`  
 
 ```text
 

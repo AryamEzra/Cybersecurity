@@ -1,5 +1,5 @@
-`subfinder -d example.com` or 
-`subfinder -d example.com -all`
+`subfinder -d example.com` or   
+`subfinder -d example.com -all`  
 
 ```text
 pentester@kali-linux:~$ Welcome to the Kali Terminal Simulation!

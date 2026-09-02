@@ -1,8 +1,8 @@
-A - `nslookup example.com`
-MX - `nslookup -type=MX example.com`
-TXT - `nslookup -type=TXT example.com`
-NS - `nslookup -type=NS example.com`
-PTR - `nslookup 93.184.216.34` - had to use the address below the name from the `nslookup.example`
+A - `nslookup example.com`  
+MX - `nslookup -type=MX example.com`  
+TXT - `nslookup -type=TXT example.com`  
+NS - `nslookup -type=NS example.com`  
+PTR - `nslookup 93.184.216.34` - had to use the address below the name from the `nslookup.example`  
 
 
 ```text

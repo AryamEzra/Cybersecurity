@@ -1,4 +1,4 @@
-`shodan domain example.com`
+`shodan domain example.com`  
 
 ```text
 pentester@kali-linux:~$ Welcome to the Kali Terminal Simulation!

@@ -1,7 +1,7 @@
-Amass - Advanced Subdomain Enumeration
-`amass enum -d example.com` - for basic enumeration
-`amass intel -d example.com` - for intelligence gathering
-`amass enum -h` - to see all available options
+Amass - Advanced Subdomain Enumeration  
+`amass enum -d example.com` - for basic enumeration  
+`amass intel -d example.com` - for intelligence gathering  
+`amass enum -h` - to see all available options  
 
 ```text
 pentester@kali-linux:~$ Welcome to the Kali Terminal Simulation!
